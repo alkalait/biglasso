@@ -1,4 +1,4 @@
-The Biglasso Lasso
+The Bigraphical Lasso
 ========
 
 Requires Glmnet for Matlab. http://web.stanford.edu/~hastie/glmnet_matlab/
